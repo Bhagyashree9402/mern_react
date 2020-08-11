@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mern_react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mern_react/static/js/main.e2617e75.chunk.js",
+    "main.js.map": "/mern_react/static/js/main.e2617e75.chunk.js.map",
+    "runtime-main.js": "/mern_react/static/js/runtime-main.4d375656.js",
+    "runtime-main.js.map": "/mern_react/static/js/runtime-main.4d375656.js.map",
+    "static/js/2.09f1b02a.chunk.js": "/mern_react/static/js/2.09f1b02a.chunk.js",
+    "static/js/2.09f1b02a.chunk.js.map": "/mern_react/static/js/2.09f1b02a.chunk.js.map",
+    "index.html": "/mern_react/index.html",
+    "precache-manifest.9905313bac0ee1152bb634add04d79eb.js": "/mern_react/precache-manifest.9905313bac0ee1152bb634add04d79eb.js",
+    "service-worker.js": "/mern_react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mern_react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.09f1b02a.chunk.js.LICENSE.txt": "/mern_react/static/js/2.09f1b02a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mern_react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d375656.js",
+    "static/js/2.09f1b02a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e2617e75.chunk.js"
+  ]
+}
